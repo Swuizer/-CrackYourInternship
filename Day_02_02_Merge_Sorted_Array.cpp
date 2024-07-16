@@ -1,8 +1,6 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <climits>
-#include <map>
 using namespace std;
 
 void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
